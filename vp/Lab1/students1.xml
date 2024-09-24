@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <StudentName>Dmitrijs</StudentName>
+    <StudentSurname>Starov</StudentSurname>
+    <StudentId>211DDB</StudentId>
+    <StudentGroup>1</StudentGroup>
+  </Student>
+  <Student>
+    <StudentName>Ivans</StudentName>
+    <StudentSurname>Starovs</StudentSurname>
+    <StudentId>DDBI2</StudentId>
+    <StudentGroup>2</StudentGroup>
+  </Student>
+  <Student>
+    <StudentName>New</StudentName>
+    <StudentSurname>Devilson</StudentSurname>
+    <StudentId>434sq</StudentId>
+    <StudentGroup>3</StudentGroup>
+    <Email>asas@gmail.com</Email>
+  </Student>
+</ArrayOfStudent>
